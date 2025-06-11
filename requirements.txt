@@ -1,5 +1,5 @@
-streamlit
-pdfplumber
-python-docx
-openai
 
+streamlit
+openai
+python-docx
+bibtexparser
